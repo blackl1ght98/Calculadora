@@ -21,7 +21,7 @@ namespace MisPracticasConC_.CalculadoraBasica
                     }
                     else
                     {
-                        Console.WriteLine("Datos no validos. Tiene que introducir un numero: ");
+                        Console.WriteLine("Eso no es un numero, melón. Tienes que introducir un numero: ");
                     }
                 } while (!datosCorrectos);
 
@@ -35,7 +35,7 @@ namespace MisPracticasConC_.CalculadoraBasica
                     }
                     else
                     {
-                        Console.WriteLine("Datos no validos. Tiene que introducir un numero: ");
+                        Console.WriteLine("Eso no es un numero, melón. Tienes que introducir un numero: ");
                     }
                 } while (!datosCorrectos);
 
